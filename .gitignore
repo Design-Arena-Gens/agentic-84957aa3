@@ -29,7 +29,6 @@ lerna-debug.log*
 pnpm-debug.log*
 
 # Package manager lock files
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 .pnpm-store/
@@ -102,7 +101,6 @@ jspm_packages/
 .next/
 .next
 out/
-.vercel/
 
 # Nuxt.js build / generate output
 .nuxt/
